@@ -3,7 +3,7 @@ import os
 
 
 pathDir = os.listdir('pics')
-print pathDir
+
 s_x = 640
 
 for pic in pathDir:

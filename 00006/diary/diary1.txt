@@ -1,0 +1,5 @@
+An introduction to Redis data types and abstractions
+Redis is not a plain key-value store, actually it is a data structures server, supporting different kind of values.
+What this means is that, while in traditional key-value stores you associated string keys to string values, in Redis
+the value is not limited to a simple string, but can also hold more complex data structures. The following is the list
+of all the data structures supported by Redis, which will be covered separately in this tutorial
